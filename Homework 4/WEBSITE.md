@@ -12,7 +12,7 @@ I figured it would be a good idea to blend that platform with my portfolio. That
 - Custom Graphic Design and Personality
 
 ##### Example code snippet:
-`` 
+```
     // Example code snippet
     class Product(models.Model):
         name = models.CharField(max_length=100)
@@ -22,7 +22,7 @@ I figured it would be a good idea to blend that platform with my portfolio. That
         
         def __str__(self):
             return self.name
-``
+```
 
 ###### Want to visit my Website?
 Then click [here](https://bomby.us) to view it!
