@@ -31,3 +31,6 @@
 - **Headphones** - HyperX Cloud II
 - **Microphone** - Blue Yeti
 - **Camera** - Logitech Creator StreamCam
+
+###### Want to return to README?
+Then click [here](/README.md) to view it!
