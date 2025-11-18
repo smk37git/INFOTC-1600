@@ -28,4 +28,4 @@ I figured it would be a good idea to blend that platform with my portfolio. That
 Then click [here](https://bomby.us) to view it!
 
 ###### Want to return to README?
-Then click [here](/README.md) to view it!
+Then click [here](README.md) to view it!
