@@ -7,7 +7,7 @@
 
 **What this covers:** A beginner-friendly guide to understanding how live streaming works and setting up OBS Studio for your first broadcast.
 
-**Who it's for:** Complete beginners who want to start streaming on Twitch, YouTube, or similar platforms. No tech experience needed.
+**Who it's for:** Complete beginners who want to start streaming on Twitch, YouTube, or similar platforms. No experience needed.
 
 ---
 
