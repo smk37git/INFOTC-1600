@@ -20,12 +20,13 @@
 4. [What are CDNs?](04.md)
 
 **Part 2: Using OBS Studio**
-5. [Installing OBS](05.md)
-6. [The OBS Interface](06.md)
-7. [Scenes and Sources](07.md)
-8. [Setting Up Audio](08.md)
-9. [Quality Settings](09.md)
-10. [Going Live](10.md)
+
+5. [Installing OBS](05.md) 
+6. [The OBS Interface](06.md) 
+7. [Scenes and Sources](07.md) 
+8. [Setting Up Audio](08.md) 
+9. [Quality Settings](09.md) 
+10. [Going Live](10.md) 
 
 ---
 
@@ -38,4 +39,5 @@
 ---
 
 [Return Home →](Home.md)
+
 [Let's get started →](01.md)
